@@ -1,0 +1,32 @@
+; a file to describe all maps
+; lines that start with a ; will be ignored as comments
+; there needs to be one blank line between each map
+; maps can be no bigger than 20 rows x 32 columns
+; maps can consist of the following characters:
+; # is a wall
+; blank space is a blank space
+; @ is a player
+; $ is a star
+; . is a Goal square
+; * is a Star in a Goal Square
+; + is a Player in a Goal Square
+;
+; This aligns with Al Sweigart's files (see charts for reference)
+;
+; 1
+ ########
+##      #
+#       #
+# .$@$. #
+###$   ##
+  #.   ##
+  #   ##
+  #####
+
+; 2
+;
+;#####
+;# @ #
+;# $ #
+;# . #
+;#####
