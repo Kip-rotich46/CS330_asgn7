@@ -41,11 +41,7 @@ Sokoban is a classic puzzle game where the player needs to push all the stars on
 ### Steps to Run:
 
 1. **Clone the Repository** (if applicable):
-   ```bash
-   git clone https://github.com/Kip-rotich46/CS330_asgn7.git
-   cd CS330_asgn7
-   ```
-
+   
 2. **Compile the Code**:
    In the terminal, run the `make` command to compile the game:
    ```bash
